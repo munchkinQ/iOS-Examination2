@@ -8,3 +8,5 @@ Med happiness kan man gå in till research och låsa upp fler byggnader att köp
 Första research bör vara "constructor" då den låser upp "crafting" vilket behövs för att bygga de andra två byggnaderna.
 
 Appen har i detta skede fuskat in extra resurser och boostad generation av resurser för att göra testing enklare.
+
+GoogleService-Info.plist är med i Repo't, databasen har auth men lagrar inget känsligt.
